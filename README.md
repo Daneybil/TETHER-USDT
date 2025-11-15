@@ -1,2 +1,0 @@
-# TETHER-USDT
-Tether USDT 
